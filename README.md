@@ -9,6 +9,6 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/engineerahkhani/"></a>
+<a href="https://www.linkedin.com/in/engineerahkhani/">linkedin</a>
 
 ⭐️ From [engineerahkhani](https://github.com/engineerahkhani)
