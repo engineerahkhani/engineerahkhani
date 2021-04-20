@@ -9,6 +9,6 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/engineerahkhani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/engineerahkhani/"></a>
 
 ⭐️ From [engineerahkhani](https://github.com/engineerahkhani)
